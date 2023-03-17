@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch d6$MajorityElement",
+            "request": "launch",
+            "mainClass": "d6$MajorityElement",
+            "projectName": "divide & conquer_efa4f5af"
+        },
+        {
+            "type": "java",
+            "name": "Launch d5",
+            "request": "launch",
+            "mainClass": "d5",
+            "projectName": "divide & conquer_efa4f5af"
+        },
+        {
+            "type": "java",
+            "name": "Launch d4",
+            "request": "launch",
+            "mainClass": "d4",
+            "projectName": "divide & conquer_efa4f5af"
+        },
+        {
+            "type": "java",
+            "name": "Launch d3",
+            "request": "launch",
+            "mainClass": "d3",
+            "projectName": "divide & conquer_efa4f5af"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch d1",
+            "request": "launch",
+            "mainClass": "d1",
+            "projectName": "divide & conquer_efa4f5af"
+        }
+    ]
+}
