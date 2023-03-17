@@ -42,6 +42,7 @@ public class d6 {
             int[] nums = {7,1,7,2,7,7};
             System.out.println(majorityElement(nums));
         }
+        // sachin 
     }
     
 }
